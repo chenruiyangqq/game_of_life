@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game of Life", "Game of Life\Game of Life.vcxproj", "{659BE4BE-24BC-40F8-86B7-00323B804118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659BE4BE-24BC-40F8-86B7-00323B804118}.Debug|x64.ActiveCfg = Debug|x64
+		{659BE4BE-24BC-40F8-86B7-00323B804118}.Debug|x64.Build.0 = Debug|x64
+		{659BE4BE-24BC-40F8-86B7-00323B804118}.Debug|x86.ActiveCfg = Debug|Win32
+		{659BE4BE-24BC-40F8-86B7-00323B804118}.Debug|x86.Build.0 = Debug|Win32
+		{659BE4BE-24BC-40F8-86B7-00323B804118}.Release|x64.ActiveCfg = Release|x64
+		{659BE4BE-24BC-40F8-86B7-00323B804118}.Release|x64.Build.0 = Release|x64
+		{659BE4BE-24BC-40F8-86B7-00323B804118}.Release|x86.ActiveCfg = Release|Win32
+		{659BE4BE-24BC-40F8-86B7-00323B804118}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75126413-B4E1-4158-8853-5886D97496E8}
+	EndGlobalSection
+EndGlobal
